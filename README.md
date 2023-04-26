@@ -319,4 +319,4 @@ All headings are the primary region where the job is based. If a particular job 
 
 # Maintainence 
 
-This list is maintained by team (Digger.dev)[https://github.com/diggerhq/digger]. Your contributions are welcome! 
+This list is maintained by team [Digger](https://github.com/diggerhq/digger). Your contributions are welcome! 
