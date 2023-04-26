@@ -1,6 +1,18 @@
-# awesome-devops-jobs 
+# Awesome DevOps Jobs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
-All headings are the primary region where the job is based. If a particular job has remote facility, it will be mentioned next to each job in brackets.
+
+This is a list of DevOps jobs in EU & UK, USA and India. 
+
+All headings are the primary region where the job is based. 
+
+If a particular job has remote facility, it will be mentioned next to each job in brackets. 
+
+# Skip to
+
+- [EU & UK jobs](https://github.com/diggerhq/awesome-devops-jobs#eu--uk-jobs)
+- [India Jobs](https://github.com/diggerhq/awesome-devops-jobs#india-jobs)
+- [USA Jobs](https://github.com/diggerhq/awesome-devops-jobs#usa-jobs)
+- [Maintenance](https://github.com/diggerhq/awesome-devops-jobs#maintainence)
 
 # EU & UK Jobs
 
@@ -317,6 +329,15 @@ All headings are the primary region where the job is based. If a particular job 
 | GSTI                                            | [https://gstiusa.com/](https://gstiusa.com/)                                   | DevOps Engineer                               | [https://www2.jobdiva.com/portal/?a=kljdnwohzqif6gaie4dxvy8xnjsjtt0180ohn6tn1700dplhgn9fodop67xkubo5&jobid=19407120#/jobs/19407120?compid=0&SearchString=&StatesString=&id=19407120&source=linkedin.com](https://www2.jobdiva.com/portal/?a=kljdnwohzqif6gaie4dxvy8xnjsjtt0180ohn6tn1700dplhgn9fodop67xkubo5&jobid=19407120#/jobs/19407120?compid=0&SearchString=&StatesString=&id=19407120&source=linkedin.com)                                                                                                                                                                                                                                                                                                                                     | Rockville, MD                 | No                  |
 | TechDigital                                     | [https://www.techdigitalcorp.com/](https://www.techdigitalcorp.com/)           | DevOps Engineer                               | [https://www2.jobdiva.com/portal/?a=ljjdnw4xlkffs378soj5sfs86owm3y03bfwenit35m8dhcmohr5vk5fodt3md8bb&jobid=18995976#/jobs/18995976?compid=0&SearchString=&StatesString=&id=18995976&source=linkedin.com](https://www2.jobdiva.com/portal/?a=ljjdnw4xlkffs378soj5sfs86owm3y03bfwenit35m8dhcmohr5vk5fodt3md8bb&jobid=18995976#/jobs/18995976?compid=0&SearchString=&StatesString=&id=18995976&source=linkedin.com)                                                                                                                                                                                                                                                                                                                                     | Frisco, TX                    | No                  |
 
-# Maintainence 
+# Maintenance 
 
 This list is maintained by team [Digger](https://github.com/diggerhq/digger). Your contributions are welcome! 
+
+# Contributing Guidelines
+
+* Practice common sense and observe applicable [Awesome List Guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md).
+* Proof-read yourself.
+* Please be nice.
+* Be brave with contributing and commenting.
+* Verify if the job you're adding to the list is actually still active useful and/or relevant for the DevOps community.
+* In case we gather a lot of jobs that are kinda-useful, but not exactly awesome, we could create another list within the repo. Feel free to submit a PR!
