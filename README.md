@@ -13,6 +13,7 @@ If a particular job has remote facility, it will be mentioned next to each job i
 - [India Jobs](https://github.com/diggerhq/awesome-devops-jobs#india-jobs)
 - [USA Jobs](https://github.com/diggerhq/awesome-devops-jobs#usa-jobs)
 - [Maintenance](https://github.com/diggerhq/awesome-devops-jobs#maintainence)
+- [Contributing Guidelines](https://github.com/diggerhq/awesome-devops-jobs#maintainence)
 
 # EU & UK Jobs
 
